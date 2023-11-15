@@ -1,0 +1,4 @@
+path	spname	rawname	gname	data_type
+/ifs3/clliu/Single/scpp/scpp/test/PRJNA704101/Pt1D/	Pt1D	Pt1D	D	10x-format
+/ifs3/clliu/Single/scpp/scpp/test/PRJNA704101/Pt1N/	Pt1N	Pt1N	N	10x-format
+/ifs3/clliu/Single/scpp/scpp/test/PRJNA704101/Pt1S/	Pt1S	Pt1S	S	10x-format

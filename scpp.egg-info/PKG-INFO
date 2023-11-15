@@ -1,0 +1,7 @@
+Metadata-Version: 0.0.1
+Name: scpp
+Version: 0.0.1
+Summary: scpp for single cell analyse
+Author: liu chenglong
+Author-email: njlcl@outlook.com
+Requires-Dist: omicverse

@@ -1,0 +1,4 @@
+SampleID	raw_cells	raw_genes	raw_median_umi	raw_median_gene	filtered_cells	filtered_genes	filtered_median_umi	filtered_median_gene	mt_filtered_percent
+Pt1D	2383	36601	3614.0	1421.0	2254	20502	3538.5	1418.5	0.9877300613496932
+Pt1N	732	36601	2513.5	852.0	607	20502	2809.0	1002.0	0.982200647249191
+Pt1S	2470	36601	3163.5	1137.0	2231	20502	3109.0	1155.0	0.957510729613734
